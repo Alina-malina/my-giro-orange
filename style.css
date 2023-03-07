@@ -236,9 +236,6 @@ section#partners input[type="radio"] {
     top: 0;
 }
 
-/* АНЕКДОТ! */
-/* в семье потомственных пулемётчиков умер отец, для них это была настоящая утрататататататата */
-
 section#partners input[type="radio"]:checked + .partners-label {
     border: solid 1px #3d67b0;
     background-color: #3d67b0;
